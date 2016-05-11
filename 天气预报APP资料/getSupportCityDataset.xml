@@ -1,0 +1,347 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<DataSet xmlns="http://WebXml.com.cn/">
+<xs:schema xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="Region">
+<xs:element name="Region" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+<xs:complexType>
+<xs:choice minOccurs="0" maxOccurs="unbounded">
+<xs:element name="City">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="CityID" type="xs:int" minOccurs="0"/>
+<xs:element name="CityName" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:choice>
+</xs:complexType>
+</xs:element>
+</xs:schema>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+<Region xmlns="">
+<City diffgr:id="City1" msdata:rowOrder="0">
+<CityID>1531</CityID>
+<CityName>安陆</CityName>
+</City>
+<City diffgr:id="City2" msdata:rowOrder="1">
+<CityID>1518</CityID>
+<CityName>巴东</CityName>
+</City>
+<City diffgr:id="City3" msdata:rowOrder="2">
+<CityID>1521</CityID>
+<CityName>保康</CityName>
+</City>
+<City diffgr:id="City4" msdata:rowOrder="3">
+<CityID>1578</CityID>
+<CityName>蔡甸</CityName>
+</City>
+<City diffgr:id="City5" msdata:rowOrder="4">
+<CityID>1565</CityID>
+<CityName>长阳</CityName>
+</City>
+<City diffgr:id="City6" msdata:rowOrder="5">
+<CityID>1626</CityID>
+<CityName>赤壁</CityName>
+</City>
+<City diffgr:id="City7" msdata:rowOrder="6">
+<CityID>1630</CityID>
+<CityName>崇阳</CityName>
+</City>
+<City diffgr:id="City8" msdata:rowOrder="7">
+<CityID>1534</CityID>
+<CityName>大悟</CityName>
+</City>
+<City diffgr:id="City9" msdata:rowOrder="8">
+<CityID>1585</CityID>
+<CityName>大冶</CityName>
+</City>
+<City diffgr:id="City10" msdata:rowOrder="9">
+<CityID>1473</CityID>
+<CityName>丹江口</CityName>
+</City>
+<City diffgr:id="City11" msdata:rowOrder="10">
+<CityID>1562</CityID>
+<CityName>当阳</CityName>
+</City>
+<City diffgr:id="City12" msdata:rowOrder="11">
+<CityID>1583</CityID>
+<CityName>鄂州</CityName>
+</City>
+<City diffgr:id="City13" msdata:rowOrder="12">
+<CityID>1559</CityID>
+<CityName>恩施</CityName>
+</City>
+<City diffgr:id="City14" msdata:rowOrder="13">
+<CityID>1472</CityID>
+<CityName>房县</CityName>
+</City>
+<City diffgr:id="City15" msdata:rowOrder="14">
+<CityID>1572</CityID>
+<CityName>公安</CityName>
+</City>
+<City diffgr:id="City16" msdata:rowOrder="15">
+<CityID>1476</CityID>
+<CityName>谷城</CityName>
+</City>
+<City diffgr:id="City17" msdata:rowOrder="16">
+<CityID>1529</CityID>
+<CityName>广水</CityName>
+</City>
+<City diffgr:id="City18" msdata:rowOrder="17">
+<CityID>1577</CityID>
+<CityName>汉川</CityName>
+</City>
+<City diffgr:id="City19" msdata:rowOrder="18">
+<CityID>1611</CityID>
+<CityName>鹤峰</CityName>
+</City>
+<City diffgr:id="City20" msdata:rowOrder="19">
+<CityID>1536</CityID>
+<CityName>红安</CityName>
+</City>
+<City diffgr:id="City21" msdata:rowOrder="20">
+<CityID>1625</CityID>
+<CityName>洪湖</CityName>
+</City>
+<City diffgr:id="City22" msdata:rowOrder="21">
+<CityID>1579</CityID>
+<CityName>黄陂</CityName>
+</City>
+<City diffgr:id="City23" msdata:rowOrder="22">
+<CityID>1584</CityID>
+<CityName>黄冈</CityName>
+</City>
+<City diffgr:id="City24" msdata:rowOrder="23">
+<CityID>1627</CityID>
+<CityName>嘉鱼</CityName>
+</City>
+<City diffgr:id="City25" msdata:rowOrder="24">
+<CityID>1621</CityID>
+<CityName>监利</CityName>
+</City>
+<City diffgr:id="City26" msdata:rowOrder="25">
+<CityID>1558</CityID>
+<CityName>建始</CityName>
+</City>
+<City diffgr:id="City27" msdata:rowOrder="26">
+<CityID>1581</CityID>
+<CityName>江夏</CityName>
+</City>
+<City diffgr:id="City28" msdata:rowOrder="27">
+<CityID>2022</CityID>
+<CityName>黄梅</CityName>
+</City>
+<City diffgr:id="City29" msdata:rowOrder="28">
+<CityID>2020</CityID>
+<CityName>黄石</CityName>
+</City>
+<City diffgr:id="City30" msdata:rowOrder="29">
+<CityID>1530</CityID>
+<CityName>京山</CityName>
+</City>
+<City diffgr:id="City31" msdata:rowOrder="30">
+<CityID>1526</CityID>
+<CityName>荆门</CityName>
+</City>
+<City diffgr:id="City32" msdata:rowOrder="31">
+<CityID>1571</CityID>
+<CityName>荆州</CityName>
+</City>
+<City diffgr:id="City33" msdata:rowOrder="32">
+<CityID>1613</CityID>
+<CityName>来凤</CityName>
+</City>
+<City diffgr:id="City34" msdata:rowOrder="33">
+<CityID>1475</CityID>
+<CityName>老河口</CityName>
+</City>
+<City diffgr:id="City35" msdata:rowOrder="34">
+<CityID>1557</CityID>
+<CityName>利川</CityName>
+</City>
+<City diffgr:id="City36" msdata:rowOrder="35">
+<CityID>1537</CityID>
+<CityName>麻城</CityName>
+</City>
+<City diffgr:id="City37" msdata:rowOrder="36">
+<CityID>2017</CityID>
+<CityName>罗田</CityName>
+</City>
+<City diffgr:id="City38" msdata:rowOrder="37">
+<CityID>1523</CityID>
+<CityName>南漳</CityName>
+</City>
+<City diffgr:id="City39" msdata:rowOrder="38">
+<CityID>1570</CityID>
+<CityName>潜江</CityName>
+</City>
+<City diffgr:id="City40" msdata:rowOrder="39">
+<CityID>2021</CityID>
+<CityName>蕲春</CityName>
+</City>
+<City diffgr:id="City41" msdata:rowOrder="40">
+<CityID>1564</CityID>
+<CityName>三峡</CityName>
+</City>
+<City diffgr:id="City42" msdata:rowOrder="41">
+<CityID>1522</CityID>
+<CityName>神农架</CityName>
+</City>
+<City diffgr:id="City43" msdata:rowOrder="42">
+<CityID>1470</CityID>
+<CityName>十堰</CityName>
+</City>
+<City diffgr:id="City44" msdata:rowOrder="43">
+<CityID>1620</CityID>
+<CityName>石首</CityName>
+</City>
+<City diffgr:id="City45" msdata:rowOrder="44">
+<CityID>1568</CityID>
+<CityName>松滋</CityName>
+</City>
+<City diffgr:id="City46" msdata:rowOrder="45">
+<CityID>1528</CityID>
+<CityName>随州</CityName>
+</City>
+<City diffgr:id="City47" msdata:rowOrder="46">
+<CityID>1575</CityID>
+<CityName>天门</CityName>
+</City>
+<City diffgr:id="City48" msdata:rowOrder="47">
+<CityID>1631</CityID>
+<CityName>通城</CityName>
+</City>
+<City diffgr:id="City49" msdata:rowOrder="48">
+<CityID>1633</CityID>
+<CityName>通山</CityName>
+</City>
+<City diffgr:id="City50" msdata:rowOrder="49">
+<CityID>1561</CityID>
+<CityName>五峰</CityName>
+</City>
+<City diffgr:id="City51" msdata:rowOrder="50">
+<CityID>1582</CityID>
+<CityName>武汉</CityName>
+</City>
+<City diffgr:id="City52" msdata:rowOrder="51">
+<CityID>1576</CityID>
+<CityName>仙桃</CityName>
+</City>
+<City diffgr:id="City53" msdata:rowOrder="52">
+<CityID>1609</CityID>
+<CityName>咸丰</CityName>
+</City>
+<City diffgr:id="City54" msdata:rowOrder="53">
+<CityID>1632</CityID>
+<CityName>咸宁</CityName>
+</City>
+<City diffgr:id="City55" msdata:rowOrder="54">
+<CityID>1481</CityID>
+<CityName>襄阳</CityName>
+</City>
+<City diffgr:id="City56" msdata:rowOrder="55">
+<CityID>1574</CityID>
+<CityName>孝感</CityName>
+</City>
+<City diffgr:id="City57" msdata:rowOrder="56">
+<CityID>1580</CityID>
+<CityName>新洲</CityName>
+</City>
+<City diffgr:id="City58" msdata:rowOrder="57">
+<CityID>2071</CityID>
+<CityName>武穴</CityName>
+</City>
+<City diffgr:id="City59" msdata:rowOrder="58">
+<CityID>1520</CityID>
+<CityName>兴山</CityName>
+</City>
+<City diffgr:id="City60" msdata:rowOrder="59">
+<CityID>2019</CityID>
+<CityName>浠水</CityName>
+</City>
+<City diffgr:id="City61" msdata:rowOrder="60">
+<CityID>1610</CityID>
+<CityName>宣恩</CityName>
+</City>
+<City diffgr:id="City62" msdata:rowOrder="61">
+<CityID>1563</CityID>
+<CityName>宜昌</CityName>
+</City>
+<City diffgr:id="City63" msdata:rowOrder="62">
+<CityID>1525</CityID>
+<CityName>宜城</CityName>
+</City>
+<City diffgr:id="City64" msdata:rowOrder="63">
+<CityID>1566</CityID>
+<CityName>宜都</CityName>
+</City>
+<City diffgr:id="City65" msdata:rowOrder="64">
+<CityID>1573</CityID>
+<CityName>应城</CityName>
+</City>
+<City diffgr:id="City66" msdata:rowOrder="65">
+<CityID>2070</CityID>
+<CityName>阳新</CityName>
+</City>
+<City diffgr:id="City67" msdata:rowOrder="66">
+<CityID>2018</CityID>
+<CityName>英山</CityName>
+</City>
+<City diffgr:id="City68" msdata:rowOrder="67">
+<CityID>1524</CityID>
+<CityName>远安</CityName>
+</City>
+<City diffgr:id="City69" msdata:rowOrder="68">
+<CityID>1532</CityID>
+<CityName>云梦</CityName>
+</City>
+<City diffgr:id="City70" msdata:rowOrder="69">
+<CityID>1467</CityID>
+<CityName>郧西</CityName>
+</City>
+<City diffgr:id="City71" msdata:rowOrder="70">
+<CityID>1468</CityID>
+<CityName>郧县</CityName>
+</City>
+<City diffgr:id="City72" msdata:rowOrder="71">
+<CityID>1482</CityID>
+<CityName>枣阳</CityName>
+</City>
+<City diffgr:id="City73" msdata:rowOrder="72">
+<CityID>1567</CityID>
+<CityName>枝江</CityName>
+</City>
+<City diffgr:id="City74" msdata:rowOrder="73">
+<CityID>1527</CityID>
+<CityName>钟祥</CityName>
+</City>
+<City diffgr:id="City75" msdata:rowOrder="74">
+<CityID>1471</CityID>
+<CityName>竹山</CityName>
+</City>
+<City diffgr:id="City76" msdata:rowOrder="75">
+<CityID>1466</CityID>
+<CityName>竹溪</CityName>
+</City>
+<City diffgr:id="City77" msdata:rowOrder="76">
+<CityID>1519</CityID>
+<CityName>秭归</CityName>
+</City>
+<City diffgr:id="City78" msdata:rowOrder="77">
+<CityID>1569</CityID>
+<CityName>江陵</CityName>
+</City>
+<City diffgr:id="City79" msdata:rowOrder="78">
+<CityID>3573</CityID>
+<CityName>沙洋</CityName>
+</City>
+<City diffgr:id="City80" msdata:rowOrder="79">
+<CityID>3574</CityID>
+<CityName>孝昌</CityName>
+</City>
+<City diffgr:id="City81" msdata:rowOrder="80">
+<CityID>3575</CityID>
+<CityName>团风</CityName>
+</City>
+</Region>
+</diffgr:diffgram>
+</DataSet>

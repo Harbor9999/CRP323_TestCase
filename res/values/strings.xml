@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">weather</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="china">中国</string>
+    <string name="change_city">切换城市</string>
+    <string name="refresh_weather">刷新天气</string>
+
+</resources>

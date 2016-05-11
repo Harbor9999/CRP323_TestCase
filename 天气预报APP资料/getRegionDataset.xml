@@ -1,0 +1,487 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<DataSet xmlns="http://WebXml.com.cn/">
+<xs:schema xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="getRegion">
+<xs:element name="getRegion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+<xs:complexType>
+<xs:choice minOccurs="0" maxOccurs="unbounded">
+<xs:element name="Province">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="RegionID" type="xs:string" minOccurs="0"/>
+<xs:element name="RegionName" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="Country">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="RegionID" type="xs:string" minOccurs="0"/>
+<xs:element name="RegionName" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:choice>
+</xs:complexType>
+</xs:element>
+</xs:schema>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+<getRegion xmlns="">
+<Province diffgr:id="Province1" msdata:rowOrder="0">
+<RegionID>3113</RegionID>
+<RegionName>黑龙江</RegionName>
+</Province>
+<Province diffgr:id="Province2" msdata:rowOrder="1">
+<RegionID>3114</RegionID>
+<RegionName>吉林</RegionName>
+</Province>
+<Province diffgr:id="Province3" msdata:rowOrder="2">
+<RegionID>3115</RegionID>
+<RegionName>辽宁</RegionName>
+</Province>
+<Province diffgr:id="Province4" msdata:rowOrder="3">
+<RegionID>3116</RegionID>
+<RegionName>内蒙古</RegionName>
+</Province>
+<Province diffgr:id="Province5" msdata:rowOrder="4">
+<RegionID>3117</RegionID>
+<RegionName>河北</RegionName>
+</Province>
+<Province diffgr:id="Province6" msdata:rowOrder="5">
+<RegionID>3118</RegionID>
+<RegionName>河南</RegionName>
+</Province>
+<Province diffgr:id="Province7" msdata:rowOrder="6">
+<RegionID>3119</RegionID>
+<RegionName>山东</RegionName>
+</Province>
+<Province diffgr:id="Province8" msdata:rowOrder="7">
+<RegionID>31110</RegionID>
+<RegionName>山西</RegionName>
+</Province>
+<Province diffgr:id="Province9" msdata:rowOrder="8">
+<RegionID>31111</RegionID>
+<RegionName>江苏</RegionName>
+</Province>
+<Province diffgr:id="Province10" msdata:rowOrder="9">
+<RegionID>31112</RegionID>
+<RegionName>安徽</RegionName>
+</Province>
+<Province diffgr:id="Province11" msdata:rowOrder="10">
+<RegionID>31113</RegionID>
+<RegionName>陕西</RegionName>
+</Province>
+<Province diffgr:id="Province12" msdata:rowOrder="11">
+<RegionID>31114</RegionID>
+<RegionName>宁夏</RegionName>
+</Province>
+<Province diffgr:id="Province13" msdata:rowOrder="12">
+<RegionID>31115</RegionID>
+<RegionName>甘肃</RegionName>
+</Province>
+<Province diffgr:id="Province14" msdata:rowOrder="13">
+<RegionID>31116</RegionID>
+<RegionName>青海</RegionName>
+</Province>
+<Province diffgr:id="Province15" msdata:rowOrder="14">
+<RegionID>31117</RegionID>
+<RegionName>湖北</RegionName>
+</Province>
+<Province diffgr:id="Province16" msdata:rowOrder="15">
+<RegionID>31118</RegionID>
+<RegionName>湖南</RegionName>
+</Province>
+<Province diffgr:id="Province17" msdata:rowOrder="16">
+<RegionID>31119</RegionID>
+<RegionName>浙江</RegionName>
+</Province>
+<Province diffgr:id="Province18" msdata:rowOrder="17">
+<RegionID>31120</RegionID>
+<RegionName>江西</RegionName>
+</Province>
+<Province diffgr:id="Province19" msdata:rowOrder="18">
+<RegionID>31121</RegionID>
+<RegionName>福建</RegionName>
+</Province>
+<Province diffgr:id="Province20" msdata:rowOrder="19">
+<RegionID>31122</RegionID>
+<RegionName>贵州</RegionName>
+</Province>
+<Province diffgr:id="Province21" msdata:rowOrder="20">
+<RegionID>31123</RegionID>
+<RegionName>四川</RegionName>
+</Province>
+<Province diffgr:id="Province22" msdata:rowOrder="21">
+<RegionID>31124</RegionID>
+<RegionName>广东</RegionName>
+</Province>
+<Province diffgr:id="Province23" msdata:rowOrder="22">
+<RegionID>31125</RegionID>
+<RegionName>广西</RegionName>
+</Province>
+<Province diffgr:id="Province24" msdata:rowOrder="23">
+<RegionID>31126</RegionID>
+<RegionName>云南</RegionName>
+</Province>
+<Province diffgr:id="Province25" msdata:rowOrder="24">
+<RegionID>31127</RegionID>
+<RegionName>海南</RegionName>
+</Province>
+<Province diffgr:id="Province26" msdata:rowOrder="25">
+<RegionID>31128</RegionID>
+<RegionName>新疆</RegionName>
+</Province>
+<Province diffgr:id="Province27" msdata:rowOrder="26">
+<RegionID>31129</RegionID>
+<RegionName>西藏</RegionName>
+</Province>
+<Province diffgr:id="Province28" msdata:rowOrder="27">
+<RegionID>31130</RegionID>
+<RegionName>台湾</RegionName>
+</Province>
+<Province diffgr:id="Province29" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+<RegionID>311101</RegionID>
+<RegionName>北京</RegionName>
+</Province>
+<Province diffgr:id="Province30" msdata:rowOrder="29" diffgr:hasChanges="inserted">
+<RegionID>311102</RegionID>
+<RegionName>上海</RegionName>
+</Province>
+<Province diffgr:id="Province31" msdata:rowOrder="30" diffgr:hasChanges="inserted">
+<RegionID>311103</RegionID>
+<RegionName>天津</RegionName>
+</Province>
+<Province diffgr:id="Province32" msdata:rowOrder="31" diffgr:hasChanges="inserted">
+<RegionID>311104</RegionID>
+<RegionName>重庆</RegionName>
+</Province>
+<Province diffgr:id="Province33" msdata:rowOrder="32" diffgr:hasChanges="inserted">
+<RegionID>311201</RegionID>
+<RegionName>香港</RegionName>
+</Province>
+<Province diffgr:id="Province34" msdata:rowOrder="33" diffgr:hasChanges="inserted">
+<RegionID>311202</RegionID>
+<RegionName>澳门</RegionName>
+</Province>
+<Province diffgr:id="Province35" msdata:rowOrder="34" diffgr:hasChanges="inserted">
+<RegionID>311203</RegionID>
+<RegionName>钓鱼岛</RegionName>
+</Province>
+<Country diffgr:id="Country1" msdata:rowOrder="0">
+<RegionID>3320</RegionID>
+<RegionName>阿尔及利亚</RegionName>
+</Country>
+<Country diffgr:id="Country2" msdata:rowOrder="1">
+<RegionID>3522</RegionID>
+<RegionName>阿根廷</RegionName>
+</Country>
+<Country diffgr:id="Country3" msdata:rowOrder="2">
+<RegionID>3170</RegionID>
+<RegionName>阿曼</RegionName>
+</Country>
+<Country diffgr:id="Country4" msdata:rowOrder="3">
+<RegionID>3176</RegionID>
+<RegionName>阿塞拜疆</RegionName>
+</Country>
+<Country diffgr:id="Country5" msdata:rowOrder="4">
+<RegionID>3317</RegionID>
+<RegionName>埃及</RegionName>
+</Country>
+<Country diffgr:id="Country6" msdata:rowOrder="5">
+<RegionID>3314</RegionID>
+<RegionName>埃塞俄比亚</RegionName>
+</Country>
+<Country diffgr:id="Country7" msdata:rowOrder="6">
+<RegionID>3246</RegionID>
+<RegionName>爱尔兰</RegionName>
+</Country>
+<Country diffgr:id="Country8" msdata:rowOrder="7">
+<RegionID>3237</RegionID>
+<RegionName>奥地利</RegionName>
+</Country>
+<Country diffgr:id="Country9" msdata:rowOrder="8">
+<RegionID>368</RegionID>
+<RegionName>澳大利亚</RegionName>
+</Country>
+<Country diffgr:id="Country10" msdata:rowOrder="9">
+<RegionID>3169</RegionID>
+<RegionName>巴基斯坦</RegionName>
+</Country>
+<Country diffgr:id="Country11" msdata:rowOrder="10">
+<RegionID>3580</RegionID>
+<RegionName>巴西</RegionName>
+</Country>
+<Country diffgr:id="Country12" msdata:rowOrder="11">
+<RegionID>3232</RegionID>
+<RegionName>保加利亚</RegionName>
+</Country>
+<Country diffgr:id="Country13" msdata:rowOrder="12">
+<RegionID>3243</RegionID>
+<RegionName>比利时</RegionName>
+</Country>
+<Country diffgr:id="Country14" msdata:rowOrder="13">
+<RegionID>3235</RegionID>
+<RegionName>波兰</RegionName>
+</Country>
+<Country diffgr:id="Country15" msdata:rowOrder="14">
+<RegionID>3163</RegionID>
+<RegionName>朝鲜</RegionName>
+</Country>
+<Country diffgr:id="Country16" msdata:rowOrder="15">
+<RegionID>3245</RegionID>
+<RegionName>丹麦</RegionName>
+</Country>
+<Country diffgr:id="Country17" msdata:rowOrder="16">
+<RegionID>3238</RegionID>
+<RegionName>德国</RegionName>
+</Country>
+<Country diffgr:id="Country18" msdata:rowOrder="17">
+<RegionID>3225</RegionID>
+<RegionName>俄罗斯</RegionName>
+</Country>
+<Country diffgr:id="Country19" msdata:rowOrder="18">
+<RegionID>3241</RegionID>
+<RegionName>法国</RegionName>
+</Country>
+<Country diffgr:id="Country20" msdata:rowOrder="19">
+<RegionID>3151</RegionID>
+<RegionName>菲律宾</RegionName>
+</Country>
+<Country diffgr:id="Country21" msdata:rowOrder="20">
+<RegionID>3248</RegionID>
+<RegionName>芬兰</RegionName>
+</Country>
+<Country diffgr:id="Country22" msdata:rowOrder="21">
+<RegionID>3377</RegionID>
+<RegionName>刚果（金）</RegionName>
+</Country>
+<Country diffgr:id="Country23" msdata:rowOrder="22">
+<RegionID>3524</RegionID>
+<RegionName>哥伦比亚</RegionName>
+</Country>
+<Country diffgr:id="Country24" msdata:rowOrder="23">
+<RegionID>344</RegionID>
+<RegionName>古巴</RegionName>
+</Country>
+<Country diffgr:id="Country25" msdata:rowOrder="24">
+<RegionID>3162</RegionID>
+<RegionName>韩国</RegionName>
+</Country>
+<Country diffgr:id="Country26" msdata:rowOrder="25">
+<RegionID>3244</RegionID>
+<RegionName>荷兰</RegionName>
+</Country>
+<Country diffgr:id="Country27" msdata:rowOrder="26">
+<RegionID>347</RegionID>
+<RegionName>加拿大</RegionName>
+</Country>
+<Country diffgr:id="Country28" msdata:rowOrder="27">
+<RegionID>3313</RegionID>
+<RegionName>加纳</RegionName>
+</Country>
+<Country diffgr:id="Country29" msdata:rowOrder="28">
+<RegionID>3154</RegionID>
+<RegionName>柬埔寨</RegionName>
+</Country>
+<Country diffgr:id="Country30" msdata:rowOrder="29">
+<RegionID>3236</RegionID>
+<RegionName>捷克</RegionName>
+</Country>
+<Country diffgr:id="Country31" msdata:rowOrder="30">
+<RegionID>3233</RegionID>
+<RegionName>克罗地亚</RegionName>
+</Country>
+<Country diffgr:id="Country32" msdata:rowOrder="31">
+<RegionID>3316</RegionID>
+<RegionName>肯尼亚</RegionName>
+</Country>
+<Country diffgr:id="Country33" msdata:rowOrder="32">
+<RegionID>3228</RegionID>
+<RegionName>拉托维亚</RegionName>
+</Country>
+<Country diffgr:id="Country34" msdata:rowOrder="33">
+<RegionID>3155</RegionID>
+<RegionName>老挝</RegionName>
+</Country>
+<Country diffgr:id="Country35" msdata:rowOrder="34">
+<RegionID>3227</RegionID>
+<RegionName>立陶宛</RegionName>
+</Country>
+<Country diffgr:id="Country36" msdata:rowOrder="35">
+<RegionID>3312</RegionID>
+<RegionName>马达加斯加</RegionName>
+</Country>
+<Country diffgr:id="Country37" msdata:rowOrder="36">
+<RegionID>3166</RegionID>
+<RegionName>马尔代夫</RegionName>
+</Country>
+<Country diffgr:id="Country38" msdata:rowOrder="37">
+<RegionID>3158</RegionID>
+<RegionName>马来西亚</RegionName>
+</Country>
+<Country diffgr:id="Country39" msdata:rowOrder="38">
+<RegionID>3319</RegionID>
+<RegionName>马里</RegionName>
+</Country>
+<Country diffgr:id="Country40" msdata:rowOrder="39">
+<RegionID>346</RegionID>
+<RegionName>美国</RegionName>
+</Country>
+<Country diffgr:id="Country41" msdata:rowOrder="40">
+<RegionID>3165</RegionID>
+<RegionName>蒙古</RegionName>
+</Country>
+<Country diffgr:id="Country42" msdata:rowOrder="41">
+<RegionID>3578</RegionID>
+<RegionName>秘鲁</RegionName>
+</Country>
+<Country diffgr:id="Country43" msdata:rowOrder="42">
+<RegionID>3160</RegionID>
+<RegionName>缅甸</RegionName>
+</Country>
+<Country diffgr:id="Country44" msdata:rowOrder="43">
+<RegionID>3311</RegionID>
+<RegionName>莫桑比克</RegionName>
+</Country>
+<Country diffgr:id="Country45" msdata:rowOrder="44">
+<RegionID>345</RegionID>
+<RegionName>墨西哥</RegionName>
+</Country>
+<Country diffgr:id="Country46" msdata:rowOrder="45">
+<RegionID>3310</RegionID>
+<RegionName>南非</RegionName>
+</Country>
+<Country diffgr:id="Country47" msdata:rowOrder="46">
+<RegionID>3164</RegionID>
+<RegionName>尼泊尔</RegionName>
+</Country>
+<Country diffgr:id="Country48" msdata:rowOrder="47">
+<RegionID>3379</RegionID>
+<RegionName>尼日利亚</RegionName>
+</Country>
+<Country diffgr:id="Country49" msdata:rowOrder="48">
+<RegionID>3250</RegionID>
+<RegionName>挪威</RegionName>
+</Country>
+<Country diffgr:id="Country50" msdata:rowOrder="49">
+<RegionID>3239</RegionID>
+<RegionName>葡萄牙</RegionName>
+</Country>
+<Country diffgr:id="Country51" msdata:rowOrder="50">
+<RegionID>3161</RegionID>
+<RegionName>日本</RegionName>
+</Country>
+<Country diffgr:id="Country52" msdata:rowOrder="51">
+<RegionID>3249</RegionID>
+<RegionName>瑞典</RegionName>
+</Country>
+<Country diffgr:id="Country53" msdata:rowOrder="52">
+<RegionID>3242</RegionID>
+<RegionName>瑞士</RegionName>
+</Country>
+<Country diffgr:id="Country54" msdata:rowOrder="53">
+<RegionID>3318</RegionID>
+<RegionName>塞内加尔</RegionName>
+</Country>
+<Country diffgr:id="Country55" msdata:rowOrder="54">
+<RegionID>3172</RegionID>
+<RegionName>沙特阿拉伯</RegionName>
+</Country>
+<Country diffgr:id="Country56" msdata:rowOrder="55">
+<RegionID>3167</RegionID>
+<RegionName>斯里兰卡</RegionName>
+</Country>
+<Country diffgr:id="Country57" msdata:rowOrder="56">
+<RegionID>3159</RegionID>
+<RegionName>泰国</RegionName>
+</Country>
+<Country diffgr:id="Country58" msdata:rowOrder="57">
+<RegionID>3315</RegionID>
+<RegionName>坦桑尼亚</RegionName>
+</Country>
+<Country diffgr:id="Country59" msdata:rowOrder="58">
+<RegionID>3321</RegionID>
+<RegionName>突尼斯</RegionName>
+</Country>
+<Country diffgr:id="Country60" msdata:rowOrder="59">
+<RegionID>3229</RegionID>
+<RegionName>土耳其</RegionName>
+</Country>
+<Country diffgr:id="Country61" msdata:rowOrder="60">
+<RegionID>342</RegionID>
+<RegionName>委内瑞拉</RegionName>
+</Country>
+<Country diffgr:id="Country62" msdata:rowOrder="61">
+<RegionID>3153</RegionID>
+<RegionName>文莱</RegionName>
+</Country>
+<Country diffgr:id="Country63" msdata:rowOrder="62">
+<RegionID>3226</RegionID>
+<RegionName>乌克兰</RegionName>
+</Country>
+<Country diffgr:id="Country64" msdata:rowOrder="63">
+<RegionID>3175</RegionID>
+<RegionName>乌兹别克斯坦</RegionName>
+</Country>
+<Country diffgr:id="Country65" msdata:rowOrder="64">
+<RegionID>3240</RegionID>
+<RegionName>西班牙</RegionName>
+</Country>
+<Country diffgr:id="Country66" msdata:rowOrder="65">
+<RegionID>3230</RegionID>
+<RegionName>希腊</RegionName>
+</Country>
+<Country diffgr:id="Country67" msdata:rowOrder="66">
+<RegionID>3157</RegionID>
+<RegionName>新加坡</RegionName>
+</Country>
+<Country diffgr:id="Country68" msdata:rowOrder="67">
+<RegionID>369</RegionID>
+<RegionName>新西兰</RegionName>
+</Country>
+<Country diffgr:id="Country69" msdata:rowOrder="68">
+<RegionID>3234</RegionID>
+<RegionName>匈牙利</RegionName>
+</Country>
+<Country diffgr:id="Country70" msdata:rowOrder="69">
+<RegionID>3174</RegionID>
+<RegionName>叙利亚</RegionName>
+</Country>
+<Country diffgr:id="Country71" msdata:rowOrder="70">
+<RegionID>343</RegionID>
+<RegionName>牙买加</RegionName>
+</Country>
+<Country diffgr:id="Country72" msdata:rowOrder="71">
+<RegionID>3171</RegionID>
+<RegionName>伊朗</RegionName>
+</Country>
+<Country diffgr:id="Country73" msdata:rowOrder="72">
+<RegionID>3231</RegionID>
+<RegionName>意大利</RegionName>
+</Country>
+<Country diffgr:id="Country74" msdata:rowOrder="73">
+<RegionID>3168</RegionID>
+<RegionName>印度</RegionName>
+</Country>
+<Country diffgr:id="Country75" msdata:rowOrder="74">
+<RegionID>3152</RegionID>
+<RegionName>印度尼西亚</RegionName>
+</Country>
+<Country diffgr:id="Country76" msdata:rowOrder="75">
+<RegionID>3247</RegionID>
+<RegionName>英国</RegionName>
+</Country>
+<Country diffgr:id="Country77" msdata:rowOrder="76">
+<RegionID>3173</RegionID>
+<RegionName>约旦</RegionName>
+</Country>
+<Country diffgr:id="Country78" msdata:rowOrder="77">
+<RegionID>3156</RegionID>
+<RegionName>越南</RegionName>
+</Country>
+<Country diffgr:id="Country79" msdata:rowOrder="78">
+<RegionID>3523</RegionID>
+<RegionName>智利</RegionName>
+</Country>
+</getRegion>
+</diffgr:diffgram>
+</DataSet>
